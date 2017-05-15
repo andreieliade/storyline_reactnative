@@ -1,0 +1,765 @@
+{
+  "id": "shadow-part2_11162016",
+  "title": "The Shadow",
+  "read_count": 358,
+    "series": [
+    2,
+    4
+  ],
+  "summary": "When The Shadow enters your home, you have a choice...",
+    "next": {
+      "id": "shadow-part3_11162016",
+      "title": "The Shadow",
+      "image_url": "http://d2c8llusbx4x1l.cloudfront.net/shadow_11162016.jpg",
+      "read_count": 358,
+      "series": [
+                 3,
+                 4
+                 ],
+      "author": {
+      "id": "miffy_moore",
+      "name": "Miffy Moore"
+    }
+  },
+  "image_url": "http://d2c8llusbx4x1l.cloudfront.net/shadow_11162016.jpg",
+  "author": {
+    "id": "miffy_moore",
+    "name": "Miffy Moore"
+  },
+  "messages": [
+{
+      "delay": 0,
+      "text": "Hello?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Please answer me",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Isn't this how you people talk to each other?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Sending messages?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I can help",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Who are you?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I can't say",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Please",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Don't ignore me. You don't want to be ignoring me",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I know you see these messages",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "How do you know that?!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Please. I don't want to do this",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Do what!?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "STOP RUNNING",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "You have to stop running",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Are you the one in my house?!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Yes",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What do you want??",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "If you keep chasing me, you'll die",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 3,
+      "text": "Thank you",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What the fuck do you want?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I'm sorry. I didn't mean to come here",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Leave then. I've already called the police once.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I can't leave. Not until you die.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What??",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Why do you want to kill me?!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I don't.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I was sent here.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Sent by who?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Did someone use words? To summon you?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Yes",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Not me. They didn't mean to summon me.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Another was to be sent in my place. But I came instead.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "It would have killed you.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Who wants to kill me?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "The fuck is going on?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Why did you come?!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I couldn't let you be killed. I owed your mother",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She saved me once",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "And sparing your life may not be repayment enough...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "For that from which I myself was spared",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "In all the dimensions there are far more evils than your world contains",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Far more creatures... of terrible malice and motive",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Are you one of the people she'd speak to?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You don't know what she did. How many worlds were made and unmade by her words",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "It's a dangerous sport she played.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Apparently",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Apparently she made some enemies too",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Did she unmake the wrong world?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Offended someone special?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "A few. Different beasts, different wrongs",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I can't say I blame her. She meddled in everything",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "It would be hard to keep track of the alliances and betrayals",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Good fucking god",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Please just leave me alone. You clearly don't want to do this",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Just leave. Do it for my mom",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I already told you I can't",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "The nature of the contract means I can't leave until you die",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Contract??",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Either you kill me or you're stuck here?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Yes. Until I kill you.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "It was a sacrifice I made willingly",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "When you're ready to die, I will kill you. And we'll both be free",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I will wait.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "That's not going to happen.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Who sent you? I'm going to make them send you back",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "They won't listen.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "They want you dead.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She does.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Fiona.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "My sister?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Fiona sent the summon",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She waited. She wanted to get it right",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She's been practicing",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She's killed a lot of people by now",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "WHO THE FUCK ARE YOU",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Is this some sick joke?!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "This is a fucking ridiculous joke. You both set me up",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Fiona knows the words. Your mother showed her a phantom once",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She got curious. She started learning.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "STOP RUNNING",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Fucking stop running away from me!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "YOU MUST STOP RUNNING",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "My face! I can't look at you!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "If you look at my face",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "That's how I will kill you",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Didn't your sister ask you to set up mirrors?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She doesn't want to kill me!!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "This is insane!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You BOTH set this up!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "STOP RIGHT THERE",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "DON'T TELL HER",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Don't tell her I spoke",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Please, take down the mirrors. Stop moving.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I want to help.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "If you send that text I will kill you.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I won't have a choice.",
+      "sender_id": "sender_1"
+    },
+    {
+      "battery": true
+    },
+{
+      "delay": 0,
+      "text": "You always have a choice!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Coming here was a choice, wasn't it?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "If Fiona knows I won't kill you, she'll summon another assassin",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Only one of us will be able to kill you.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "And the other, their mission failed, will be compelled to remain in this world forever",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Quite an incentive isn't it?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "A summoner can send out dozens of assassins",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "The contract ensures the job gets done.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "As much as I do owe your mother...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Nothing is worth being trapped here. I will not condemn myself.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Fiona's taken care of me.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You're lying. You're just waiting for me to slip up",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "She said you were after something",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "What was it?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Don't you see it's a lie she's telling you?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She was trying to trick you into looking at me",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She wouldn't",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "The pacts she's made, Renee, require death",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Your death.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Haven't you always noticed her distance?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Her ambition?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Your mother knew she could become powerful",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She began to teach her. Fiona knows she can be great",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Your sister is already making a name for herself. That's how I knew",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I watched her. I waited until she began the summon",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "That's why I was ready. You're lucky your mother was kind",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Even if only once",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Where are you now?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "At the opposite end of the house. But I can hear you.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Do you want me to kill her?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I don't know",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I can't. It's one of the rules",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Only you, I may only kill you. It's written to prevent distraction",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Were I to be trapped here, of course, I'd be free. I could kill anyone",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Have you ever noticed shadows walking round corners?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Those are trapped assassins, walking away to save you from looking into their eyes",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "As if they care if we die",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "We do.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Some don't, of course. They get reckless, wanton. They get assassinated in turn",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Fiona's texting me",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "She's wondering where I am",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "What do I do?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I can help.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Do you want my help?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Yes. Please help",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Tell me what to do",
+      "sender_id": "sender_2"
+    }
+  ],
+  "characters": [
+    {
+      "id": "sender_1",
+      "name": "Unknown"
+    },
+    {
+      "id": "sender_2",
+      "name": "Renee",
+      "is_local": true
+    }
+  ]
+}

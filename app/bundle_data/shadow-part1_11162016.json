@@ -1,0 +1,1014 @@
+{
+  "id": "shadow-part1_11162016",
+  "title": "The Shadow",
+  "read_count": 358,
+    "series": [
+    1,
+    4
+  ],
+  "summary": "When The Shadow enters your home, you have a choice...",
+    "next": {
+      "id": "shadow-part2_11162016",
+      "title": "The Shadow",
+      "image_url": "http://d2c8llusbx4x1l.cloudfront.net/shadow_11162016.jpg",
+      "read_count": 358,
+      "series": [
+                 2,
+                 4
+                 ],
+      "author": {
+      "id": "miffy_moore",
+      "name": "Miffy Moore"
+    }
+  },
+  "image_url": "http://d2c8llusbx4x1l.cloudfront.net/shadow_11162016.jpg",
+  "author": {
+    "id": "miffy_moore",
+    "name": "Miffy Moore"
+  },
+  "messages": [
+{
+      "delay": 0,
+      "text": "Hey fi?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "You coming home soon?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "No sorry",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Can you please come home?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I'm scared",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Busy atm",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Why scared?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I hear things",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What else is new",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Footsteps",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Please come here?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "You're not a kid anymore. You can take care of yourself",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "But what if there's someone here?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Go check. You're probably just freaking yourself out",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I'm not!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Okay... going out",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "It stopped",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "See? You're fine",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 3,
+      "text": "FIONA",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "ITS RUNNING",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "OH my god come back",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Fiona please there's someone here",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I'm calling the police I'm in my closet",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Don't call the police!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "It's probably nothing! You're a big girl",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I really don't want to get in trouble because you were IMAGINING THINGS",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "God damn it I don't wanna babysit you right now",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Go check the house. I'll text you. Go",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Ok...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Alright. Your room is clear",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Old room is clear",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Laundry room clear",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 3,
+      "text": "WAIT I SAW SOMEONE",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "SHIT",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "You did??",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "They were running away!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Around the corner",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Are you close to the kitchen? Get a knife!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "THE FUCK no why would I do that!?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Arm yourself!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Get your pepper spray from your room",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I'm locked in oh my god",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Can you please come back",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What are you even doing???",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I have pepper spray. In my closet again",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Where are you??!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Police are coming",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Ok",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Good! Let me know what happens",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "30 minutes later..."
+    },
+{
+      "delay": 0,
+      "text": "?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "They came...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Didn't find anyone",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Did you check everywhere? All the rooms?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "All at once?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Yeah...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Did YOU check? Are you sure?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "No signs of a break in",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I SWEAR TO GOD there were footsteps!!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "If you say so...",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Maybe they were hiding",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "They must have been hiding. I'm going to look",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Atta girl! Take control!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Okay I'm turning on all the lights",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I hear it",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "God there are definitely footsteps fi",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "But... they're shuffling now",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Like they're trying to be quiet",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Hmm",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Shit. They're REALLY QUIET",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I can hear...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "SHIT",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What??",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 3,
+      "text": "Fuck. Oh my god fiona",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Oh my god. I saw him",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Him??",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "There's someone here I fucking told you!!!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Where?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I was walking through the hall",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Followed the shuffles. I was gonna sneak up",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "He started running",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Did you see his face??",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "No",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "He was already at the end of the kitchen",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "And he turned into the living room",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I saw his back...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "He ran away...?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Okay I'm going down the hall... really quietly...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I SAW HIM AGAIN",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "He was at the end of the hall!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "THERE'S SOMEONE HERE!! I saw his back!!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Why would he be running away?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Try going the opposite way around!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Good idea",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Shit he turned the corner",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What the fuck! I hear NOTHING how's he getting to the end of the hall so fast!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "He can't be running. I'd hear it",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "And when I get to the end of the hall, he's already turning the corner",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Always turning the corner!!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "It's like he's afraid of me",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Why doesn't he just leave?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "SHIT I tried running. Coudn't catch up. So fast",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I'm just chasing him in circles",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Maybe.. He's looking for something",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Like what?? We dont own jack shit of value",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "And he's not trying to go anywhere besides around the halls",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "COME HOME PLEASE PLEASE",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I swear to god I'm not imagining this",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Please!! I don't know what's going on this feels weird!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Renee..",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I think I know what he's after",
+      "sender_id": "sender_2"
+    },
+    {
+      "battery": true
+    },
+{
+      "delay": 0,
+      "text": "What?!?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Listen. I'm not sure on the details",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You wouldn't remember this..",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "But mom knew things. Knew people",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "What things?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "It was a complicated business",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "The details don't matter. I don't know them anyway",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Yes you clearly do?!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "It's dark shit, Renee. You don't want to know",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "She knew people? Did she sell drugs?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Is that what you're always off doing?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Are you doing drugs right now? Dealing??",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Carrying on the empire, just fucking great",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "No!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "That's not what I mean by dark...",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Wait where's the man?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Are you still in the hall?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "No, I'm in the kitchen. Can see both halls.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "He won't get away. Keep talking",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Mom knew how to talk to people",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "All kinds of people",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Stop rambling",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I mean ALL kinds of people Renee",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "People you wouldn't exactly think of as people",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "So murderers? Rapists, what??",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Sure. I guess that's a kind of monster...",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "She knew everyone. All ages, all existences, she could talk to them",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "She knew the right words.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "The right words? I'm guessing you don't mean she was a great therapist",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What words? Languages?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Yeah. The right words. She could summon anyone.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Anything.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Any person, creature, thing. From any place and any time",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "And use these words to make them listen.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Jesus christ Fiona this is insane",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She was a fucking witch?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Not really, no",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "What are you telling me?!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "THERES SOMEONE HERE NOW",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "WHAT DO THEY WANT",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "AND WHY DO THEY KEEP RUNNING AWAY?!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Have you seen them yet?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "No!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I need to know what he looks like",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Why??",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Can you describe him?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I've only seen his back! And then he turns the corner!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I know",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Listen",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You don't have to be afraid",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "He'll keep running",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Go to my room. And the old room",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Grab the mirrors",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "What?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I have a full length mirror. Mom's old room has one too. Place them at the end of the halls",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Okay?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Angle them so you can see around the corners",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "And then start chasing him again",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "And tell me what you see",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Jesus fi please this is so so weird",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What does he want?? What's he looking for?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Where are you??",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I can't come home now.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "But I need you to tell me what his face looks like",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "If you angle the mirrors correctly",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You'll be able to see",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Then I'll know if I'm right",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "How do you know all this?! Why didn't mom ever tell me?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "You were little",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Don't worry. I'll explain.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Go. Set up the mirrors",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Make him run the hall",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Are you sure he won't hurt me...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Positive",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "What's he going to look like?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Look for his face.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You'll understand",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Have you done it?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Yeah. One mirror up...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Okay... Both set up...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Follow him until he's facing it",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Have you done it?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Renee?",
+      "sender_id": "sender_2"
+    }
+  ],
+  "characters": [
+    {
+      "id": "sender_1",
+      "name": "Renee",
+      "is_local": true
+    },
+    {
+      "id": "sender_2",
+      "name": "Fiona"
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "id": "shadow-part3_11162016",
+  "title": "The Shadow",
+  "read_count": 358,
+    "series": [
+    3,
+    4
+  ],
+  "summary": "When The Shadow enters your home, you have a choice...",
+    "next": {
+      "id": "shadow-part4_11162016",
+      "title": "The Shadow",
+      "image_url": "http://d2c8llusbx4x1l.cloudfront.net/shadow_11162016.jpg",
+      "read_count": 358,
+      "series": [
+                 4,
+                 4
+                 ],
+      "author": {
+      "id": "miffy_moore",
+      "name": "Miffy Moore"
+    }
+  },
+  "image_url": "http://d2c8llusbx4x1l.cloudfront.net/shadow_11162016.jpg",
+  "author": {
+    "id": "miffy_moore",
+    "name": "Miffy Moore"
+  },
+  "messages": [
+{
+      "delay": 0,
+      "text": "She keeps texting me",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Calling too",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Don't answer",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I know",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "She's worried",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "She lies",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "God what the fuck am I doing?!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You have to trust me.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Why should I? Why should I REALLY?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Nothing's stopping me from turning around right now and going home",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I could stop you",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "But you won't",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Renee. Your life matters to me",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Don't force me to take it from you",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "And keep up.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "You walk too fast!! I can't even see you",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I'm behind the trees",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Can never be too cautious",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "It's safer if I appear only at intervals. I'll be a flashing beacon",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What are you, exactly?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Your shape is like a person, but you move... funny",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Kind of wobbly",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Like your shoulders have a giant bucket of water on them that keeps sloshing around",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Doesn't matter. I'm only a shadow to you",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "You're smaller than I'd have thought too",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You look around my size",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Why should that surprise you?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "There. I see the stray",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Where?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Ahead of you. Near the dip in the path. Big rock",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Ah",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Give it the bread. I'll wait",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Is there any other way?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Please. I don't want to do this",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Renee.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Fuck! I don't know!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I can't kill it!!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Yet you can kill your sister?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I'm not the one actually doing that!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "And she wants me dead! This cat never did anything...",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "And here I am fucking tracking it down. To kill it",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Shit. Shit shit shit",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "What's wrong? It likes you",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "EXACTLY YOU FUCKER",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "It's the only way I know Renee.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "We need its blood. Blood for blood.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "All its blood?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "What if... jesus this is so fucked",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "What if I only take a little bit",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Not kill it. Just cut it",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "The less blood, the less powerful our curse",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "God damn it.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "And I can't use my own blood?!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "No.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Hurry. I don't have time for this. YOU don't have time for this",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Oh my god oh my god I don't want to",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Fuck.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 3,
+      "text": "Fuck.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Good. That should be enough.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I did warn you though. Don't say I didn't warn you if our curse is not strong enough",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "What are you doing?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Stop that. We have to go.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Shut up.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I'm not leaving it with an open wound.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "This is the least I can do",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "It's your own life you're toying with I suppose.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Will you stop?!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "It's your own fault I'm even doing this!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You took a swift and easy death from me! I wouldn't have ever known, would I?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I saved your life.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I can still give you a swift and easy death, if you'd like. We don't have to fight",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "No.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Show me where to go",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I'm ready",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Through the trees. Off the path.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I know you're looking at Fiona's messages.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I won't answer.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "This place?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Yes. I can start the fire. Turn away",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Good god I can feel it from over here",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Can I look now",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Yes",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Okay what now.",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I am going to speak",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "You must repeat the words",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Do I pour the blood out yet?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "No not yet!",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "You must say it correctly. Practice first.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Repeat what I say",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "SHIT WHAT THE FUCK",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I'm sorry",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "YOU DIDN'T MENTION",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 3,
+      "text": "Jesus christ",
+      "sender_id": "sender_2"
+    },
+    {
+      "battery": true
+    },
+{
+      "delay": 0,
+      "text": "That you'd SOUND like that",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I know. Just listen.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Alright alright I'll try",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Is that right?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Close. Harsher \"r's\"",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "And when you really speak it, be loud.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Okay",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Good. One more time",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Good. Keep saying it",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Your voice...",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "It's almost familiar underneath the...",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 3,
+      "text": "I don't know what to call it. Rasping I guess",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Like in those nightmares where someone you know ISNT really them",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Is that so?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Well done. Now, stand over the fire.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Closer.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "It's so hot!",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Good. Now begin speaking. At the pause, pour.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Okay",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Was... was something supposed to happen?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "No. That was exactly what you were supposed to do",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Shadow... was that right?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Fuck I'm shaking. I can't...",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "It's all right. I'm right here. Keep your eyes closed...",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I'm right here.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "That was perfect.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Why am I so cold??",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I can touch you now. Just look at your phone",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I'll keep you warm",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Don't look at my face",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I can't look yet?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "You are SO warm. You feel like milk and honey",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Sorry what the fuck am I saying",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "It's nice",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "That's right.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Thanks...",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Don't worry about your sister",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "She's a danger. To you, to your world. To mine.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "To everything.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Too much too soon. She's too young to be trifling with your mother's business",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Fiona's trying to take over her business?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Essentially.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Trying to kill you was just one step too far.",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I needed you to stay alive",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "We'll make sure she stops",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Right?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Thank you Renee. For trusting me",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Are you ready?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "Yes. I think so",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I can feel your eyes on my face",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Are you sure it's okay to do this...",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "That this won't kill me?",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "I'm looking at you now aren't I?",
+      "sender_id": "sender_1"
+    },
+{
+      "delay": 0,
+      "text": "I'm scared",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "It's so fucking cold",
+      "sender_id": "sender_2"
+    },
+{
+      "delay": 0,
+      "text": "Can I text her now?",
+      "sender_id": "sender_2"
+    }
+  ],
+  "characters": [
+    {
+      "id": "sender_1",
+      "name": "Unknown"
+    },
+    {
+      "id": "sender_2",
+      "name": "Renee",
+      "is_local": true
+    }
+  ]
+}
